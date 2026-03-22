@@ -4,3 +4,10 @@
 
 ![photo_2025-09-06_14-34-30](https://github.com/user-attachments/assets/fe583936-6a72-4ddd-a210-9471f66ae6e3)
 ![photo_2025-10-06_01-14-15](https://github.com/user-attachments/assets/12a8b776-4fff-4411-ab15-f5a96f0e7ef2)
+
+## Bill Of Materials 
+
+### To build the keyboard, you will need the following materials
+- 1x STM32F401CCU6 Blackpill
+- Pins and sockets for the microcontrollers (blackpill needs 20 pin stripes)
+- 98 1n4148 DO-35 diodes
