@@ -18,3 +18,5 @@
 ## Completed build 
 ![photo_2025-08-31_10-51-24](https://github.com/user-attachments/assets/4372952a-437d-41da-ad48-83886f7d3d7b)
 ![photo_2025-09-02_19-01-52 (2)](https://github.com/user-attachments/assets/e0dcb49f-7d1a-48c1-8c42-8903ee88c552)
+![photo_2025-10-20_12-44-21](https://github.com/user-attachments/assets/9b383cc1-7821-4798-bc3b-650f017c06a6)
+![photo_2025-09-11_19-53-35](https://github.com/user-attachments/assets/dc7d2c6e-bffe-470d-9bfb-9b619242028b)
