@@ -14,3 +14,7 @@
 - 22 Wire jumpers (you can use diode legs) 
 - 4 82ohm resistors (optional)
 - LED (optional)
+
+## Completed build 
+![photo_2025-08-31_10-51-24](https://github.com/user-attachments/assets/4372952a-437d-41da-ad48-83886f7d3d7b)
+![photo_2025-09-02_19-01-52 (2)](https://github.com/user-attachments/assets/e0dcb49f-7d1a-48c1-8c42-8903ee88c552)
